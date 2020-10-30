@@ -1,5 +1,5 @@
 Role Prometheus
-===============
+--------------
 Prometheus installer
 Role Variables
 --------------
