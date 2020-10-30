@@ -1,5 +1,5 @@
 ---
-- name: Configure
+- name: Конфигурируем Prometheus
   become: true
   template:
     src: prometheus.yml.j2
